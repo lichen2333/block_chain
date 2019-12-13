@@ -10,3 +10,10 @@ Back_end为后端
 > node app.js
 
 启动
+
+前端使用vue框架，在安装VUE后，在官网下载2.0版本模板
+
+> npm install
+> npm run dev
+
+启动前端网页
